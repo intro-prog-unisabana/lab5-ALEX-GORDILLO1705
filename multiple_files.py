@@ -1,6 +1,6 @@
 from utils import flip, count_letters
 
-mensaje = input("Please type your message\n")
+mensaje = input("Please type your message")
 
 mensaje_invertido = flip(mensaje)
 cantidad_a = count_letters(mensaje)
