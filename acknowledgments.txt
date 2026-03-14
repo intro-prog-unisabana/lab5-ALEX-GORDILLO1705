@@ -3,7 +3,7 @@ Lab 5
 /******************************************************************************
 * Número aproximado de horas para completar esta tarea
 ******************************************************************************/
-Número de horas:
+Número de horas: 2 dias
 
 
 /******************************************************************************
@@ -12,18 +12,20 @@ Número de horas:
 
 ¿Sí o no?
 
+Si en los ejercicicos del juego tuve un poco e dificultad al unir los archivos y el module.py tuve problema para utilizar for para reducir las lineas del codigo
+
 
 /******************************************************************************
 * Escribe cualquier otro comentario aquí.
 ******************************************************************************/
 
-
+super entretenido los ejercicios para poder descubir estractegias
 
 /******************************************************************************
  *  Proporciona el enlace de tu perfil de GitHub (ej. https://github.com/afbeltranp)
  ******************************************************************************/
 
-[escribe el enlace aquí]
+[https://github.com/ALEX-GORDILLO1705]
 
 /******************************************************************************
  *  Escribe y firma el siguiente reconocimiento estudiantil de trabajo original.
@@ -34,5 +36,6 @@ Número de horas:
  *      con las regulaciones de la Universidad.  /s/ Ada Lovelace
  ******************************************************************************/
 
-[escribe y firma la declaración aquí]
+[Esta tarea de programación representa mi propio trabajo de acuerdo
+con las regulaciones de la Universidad.  /s/ Yilder Alexander Gordillo Basto.]
 

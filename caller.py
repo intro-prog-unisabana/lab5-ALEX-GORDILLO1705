@@ -1,11 +1,3 @@
-
-
-# FREEZE CODE BEGIN
-x = int(input())
-y = float(input())
-# FREEZE CODE END
-
-
 from mystery_module import transform_data
 
 x = int(input())
