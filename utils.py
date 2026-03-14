@@ -34,3 +34,9 @@ def floor_divide(num1, num2):
 
 def absolute(num):
     return abs(num)
+
+def flip(text):
+    return text[::-1]
+
+def count_letters(text):
+    return text.count('a')
